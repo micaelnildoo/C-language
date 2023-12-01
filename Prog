@@ -1,1 +1,7 @@
-https://github.com/micaelnildoo/C-language.git
+# input é usada para entrada de dados
+a = input
+#int é usado para inserir dados inteiros, como: 1, 2, 3...
+a = int(input())
+print(a) #mostra o valor digitado
+print(type(a)) #mostra na tela o tipo da variável
+
